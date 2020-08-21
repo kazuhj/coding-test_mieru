@@ -1,4 +1,4 @@
-# coding-test_mier
+# coding-test_mieru
 
 「mieru」のコーディングテストを実施。
 
