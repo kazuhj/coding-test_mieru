@@ -4,8 +4,10 @@
 
 ## 留意点
 - 動画は別途Google dvibeのURLを共有致します。
-- コーディング結果は以下の画像+コードを確認いただければと思います。
-  (GitHub Pages読み込みエラーのため。)
+
+~~コーディング結果は以下の画像+コードを確認いただければと思います。(GitHub Pages読み込みエラーのため。)~~
+- 以下のGitHub PagesのURLからビューをご覧いただけます。
+　https://kazuhj.github.io/coding-test_mieru/mieru/top.html
 - キリの良い状態まで作業したので、コード+画像は動画から＋８分作業した状態のものになります。
 
 ## 画像
